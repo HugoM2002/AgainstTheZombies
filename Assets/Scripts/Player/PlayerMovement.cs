@@ -8,11 +8,12 @@ public class PlayerMovement : MonoBehaviour
 
     public float speed = 10f;
     public float gravity = -9.90f;
+    public float groundDistance = 0.4f;
+    public float jumpHeigt = 3f;
 
     Vector3 velocity;
 
     public Transform groundCheck;
-    public float groundDistance = 0.4f;
     public LayerMask groundMask;
     bool ground;
 
@@ -35,6 +36,11 @@ public class PlayerMovement : MonoBehaviour
         if(ground && velocity.y < 0)
         {
             velocity.y = -2f;
+        }
+
+        if(Input.GetButtonDown("Jump") && ground)
+        {
+            velocity.y = Mathf.Sqrt(jumpHeigt * -2f * gravity);
         }
     }
 }
