@@ -2657,17 +2657,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2084267003}
   attacksound: {fileID: 0}
-<<<<<<< HEAD
-  sphereCast: {fileID: 2093025683}
-  soundInstensity: 4
-  walkZombieRadius: 5
-  sprintZombieRadius: 5
-=======
   sphereCast: {fileID: 0}
   soundInstensity: 20
   walkZombieRadius: 1
   sprintZombieRadius: 2
->>>>>>> e628a015c1da060ee80e1fe0fd2d73beb9ac3004
   damage: 30
   zombieLayer:
     serializedVersion: 2
