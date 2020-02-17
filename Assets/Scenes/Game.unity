@@ -122,6 +122,7 @@ NavMeshSettings:
       m_Flags: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_NavMeshData: {fileID: 23800000, guid: 432401c98ebf1014b98cdf1df1c9907a, type: 2}
 --- !u!1 &218595312
 GameObject:
@@ -266,6 +267,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_NavMeshData: {fileID: 0}
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
 =======
   m_NavMeshData: {fileID: 0}
 >>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
@@ -1199,6 +1203,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1586837836}
   m_Enabled: 1
   serializedVersion: 3
@@ -1212,6 +1217,8 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
 =======
+=======
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
   m_GameObject: {fileID: 1123154891}
   m_Enabled: 0
   m_CastShadows: 1
@@ -1294,9 +1301,12 @@ RectTransform:
   m_GameObject: {fileID: 1603894083}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 4, y: 4, z: 4}
 =======
+=======
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
   m_LocalPosition: {x: 2.42, y: 1.505, z: -0.02}
   m_LocalScale: {x: 1, y: 1.4987864, z: 1}
 >>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
@@ -1305,6 +1315,7 @@ RectTransform:
   m_Father: {fileID: 1909332930}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1410,6 +1421,8 @@ CanvasRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
 =======
+=======
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
 --- !u!4 &1191880419 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400170, guid: abfe6fc5a9b390a488839c1fc3b58dcd,
@@ -2043,6 +2056,7 @@ MonoBehaviour:
     m_Bits: 512
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &2084267007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2174,6 +2188,8 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 1
   m_Center: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
 =======
 >>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
 =======
