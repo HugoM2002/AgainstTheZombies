@@ -121,6 +121,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_NavMeshData: {fileID: 23800000, guid: 432401c98ebf1014b98cdf1df1c9907a, type: 2}
 --- !u!1 &218595312
 GameObject:
@@ -265,6 +266,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_NavMeshData: {fileID: 0}
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
 =======
   m_NavMeshData: {fileID: 0}
 >>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
@@ -1194,6 +1198,7 @@ Canvas:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1586837836}
   m_Enabled: 1
   serializedVersion: 3
@@ -1206,6 +1211,38 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
+=======
+  m_GameObject: {fileID: 1123154891}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -1256,13 +1293,19 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1603894083}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 4, y: 4, z: 4}
+=======
+  m_LocalPosition: {x: 2.42, y: 1.505, z: -0.02}
+  m_LocalScale: {x: 1, y: 1.4987864, z: 1}
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
   m_Children:
   - {fileID: 1948756488}
   m_Father: {fileID: 1909332930}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 97}
@@ -1366,6 +1409,13 @@ CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
+=======
+--- !u!4 &1191880419 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400170, guid: abfe6fc5a9b390a488839c1fc3b58dcd,
+    type: 3}
+  m_PrefabInstance: {fileID: 726711557}
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1603894083}
   m_CullTransparentMesh: 0
@@ -1992,6 +2042,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 512
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &2084267007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2123,6 +2174,8 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 1
   m_Center: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
 =======
 >>>>>>> parent of eea6022... Player/Enemy/Weapon/Navmesh
 --- !u!1 &2093025680
