@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public CharacterController controllerPlayer;
-    public bool iswalking;
+
     public float speed = 10f;
     public float gravity = -9.90f;
     public float groundDistance = 0.4f;
@@ -41,18 +41,6 @@ public class PlayerMovement : MonoBehaviour
         if(Input.GetButtonDown("Jump") && ground)
         {
             velocity.y = Mathf.Sqrt(jumpHeigt * -2f * gravity);
-        }
-    }
-
-    public int GetPlayerStealth()
-    {
-        if (iswalking)
-        {
-            return 0;
-        }
-        else
-        {
-            return 1;
         }
     }
 }
